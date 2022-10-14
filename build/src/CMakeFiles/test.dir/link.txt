@@ -1,0 +1,1 @@
+g++ -O3 -g CMakeFiles/test.dir/test.cpp.o -o /home/zxh/robotfall/bin/test   -L/home/zxh/robotfall/lib  -Wl,-rpath,/home/zxh/robotfall/lib /home/zxh/robotfall/lib/libkalman.a 

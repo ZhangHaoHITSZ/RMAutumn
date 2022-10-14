@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/zxh/robotfall/lib/libkalman.a CMakeFiles/kalman.dir/kalman.cpp.o
+/usr/bin/ranlib /home/zxh/robotfall/lib/libkalman.a

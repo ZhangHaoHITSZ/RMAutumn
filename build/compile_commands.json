@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/zxh/robotfall/build/src",
+  "command": "g++  -I/home/zxh/robotfall/include -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -O3 -g -o CMakeFiles/one.dir/one.cpp.o -c /home/zxh/robotfall/src/one.cpp",
+  "file": "/home/zxh/robotfall/src/one.cpp"
+},
+{
+  "directory": "/home/zxh/robotfall/build/src",
+  "command": "g++  -I/home/zxh/robotfall/include -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -O3 -g -o CMakeFiles/two.dir/two.cpp.o -c /home/zxh/robotfall/src/two.cpp",
+  "file": "/home/zxh/robotfall/src/two.cpp"
+},
+{
+  "directory": "/home/zxh/robotfall/build/src",
+  "command": "g++  -I/home/zxh/robotfall/include -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -O3 -g -o CMakeFiles/trackbar.dir/trackbar.cpp.o -c /home/zxh/robotfall/src/trackbar.cpp",
+  "file": "/home/zxh/robotfall/src/trackbar.cpp"
+},
+{
+  "directory": "/home/zxh/robotfall/build/src",
+  "command": "g++  -I/home/zxh/robotfall/include -I/usr/local/include/opencv4 -I/usr/include/eigen3 -O3 -g -o CMakeFiles/kalman.dir/kalman.cpp.o -c /home/zxh/robotfall/src/kalman.cpp",
+  "file": "/home/zxh/robotfall/src/kalman.cpp"
+},
+{
+  "directory": "/home/zxh/robotfall/build/src",
+  "command": "g++  -I/home/zxh/robotfall/include -I/usr/local/include/opencv4 -I/usr/include/eigen3 -O3 -g -o CMakeFiles/test.dir/test.cpp.o -c /home/zxh/robotfall/src/test.cpp",
+  "file": "/home/zxh/robotfall/src/test.cpp"
+}
+]
